@@ -120,7 +120,8 @@ export default function index() {
                     data-wow-delay="0.7s"
                   >
                     <h4>
-                      Frontend Developer at <a href>Xord.One</a>
+                      Frontend Developer at{" "}
+                      <a href="https://xord.one/">Xord.One</a>
                     </h4>
                     <div className="mh-eduyear">Feb 2019 - Jun 2019</div>
                     <span>Responsibility :</span>
