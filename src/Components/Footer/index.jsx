@@ -144,7 +144,7 @@ export default function index() {
                 <div id="mh-map" className="shadow-1" />
               </div>
             </div> */}
-            <div
+            {/* <div
               className="col-sm-12 mh-copyright wow fadeInUp"
               data-wow-duration="0.8s"
               data-wow-delay="0.3s"
@@ -180,7 +180,7 @@ export default function index() {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

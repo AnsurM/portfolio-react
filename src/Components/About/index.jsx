@@ -28,9 +28,9 @@ export default function index() {
                 data-wow-duration="0.8s"
                 data-wow-delay="0.2s"
               >
-                Hello, I’m a Patrick, web-developer based on Paris. I have rich
-                experience in web site design &amp; building and customization.
-                Also I am good at
+                Hello, I’m a MERN Stack, web-developer based in Karachi. I have
+                rich experience in web site logic development &amp; animations
+                as well as backend handling. Also I am good at
               </p>
               <div
                 className="mh-about-tag wow fadeInUp"
@@ -39,35 +39,38 @@ export default function index() {
               >
                 <ul>
                   <li>
-                    <span>php</span>
-                  </li>
-                  <li>
-                    <span>html</span>
-                  </li>
-                  <li>
-                    <span>css</span>
-                  </li>
-                  <li>
-                    <span>php</span>
-                  </li>
-                  <li>
-                    <span>wordpress</span>
-                  </li>
-                  <li>
                     <span>React</span>
                   </li>
                   <li>
-                    <span>Javascript</span>
+                    <span>Node</span>
+                  </li>
+                  <li>
+                    <span>Express</span>
+                  </li>
+                  <li>
+                    <span>JavaScript</span>
+                  </li>
+                  <li>
+                    <span>C#</span>
+                  </li>
+                  <li>
+                    <span>HTML</span>
+                  </li>
+                  <li>
+                    <span>CSS</span>
                   </li>
                 </ul>
               </div>
               <a
-                href
+                href="assets/resume/SyedAnsurMehdiResume.pdf"
+                download="SyedAnsurMehdiResume"
                 className="btn btn-fill wow fadeInUp"
+                style={{ backgroundColor: "royalblue" }}
                 data-wow-duration="0.8s"
                 data-wow-delay="0.4s"
               >
-                Downlaod CV <i className="fa fa-download" />
+                Download CV
+                <i className="fa fa-download" />
               </a>
             </div>
           </div>

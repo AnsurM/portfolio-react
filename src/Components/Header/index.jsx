@@ -55,11 +55,11 @@ export default function index() {
                     Portfolio
                   </a>
                 </li>
-                <li className="nav-item">
+                {/* <li className="nav-item">
                   <a className="nav-link" href="#mh-pricing">
                     Pricing
                   </a>
-                </li>
+                </li> */}
                 <li className="nav-item">
                   <a className="nav-link" href="#mh-blog">
                     Blog

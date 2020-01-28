@@ -20,14 +20,14 @@ export default function index() {
                   data-wow-duration="0.8s"
                   data-wow-delay="0.2s"
                 >
-                  Alex Johnson
+                  Syed Ansur Mehdi
                 </h2>
                 <h4
                   className="wow fadeInUp"
                   data-wow-duration="0.8s"
                   data-wow-delay="0.3s"
                 >
-                  Product Designer
+                  Full Stack Developer
                 </h4>
                 <ul>
                   <li
@@ -36,7 +36,7 @@ export default function index() {
                     data-wow-delay="0.4s"
                   >
                     <i className="fa fa-envelope" />
-                    <a href="mailto:">getemail@email.com</a>
+                    <a href="mailto:">ansurmehdi@gmail.com</a>
                   </li>
                   <li
                     className="wow fadeInUp"
@@ -44,7 +44,7 @@ export default function index() {
                     data-wow-delay="0.5s"
                   >
                     <i className="fa fa-phone" />
-                    <a href="callto:">+12 986 987 7867</a>
+                    <a href="callto:">+92 323 250 0966</a>
                   </li>
                   <li
                     className="wow fadeInUp"
@@ -52,7 +52,7 @@ export default function index() {
                     data-wow-delay="0.6s"
                   >
                     <i className="fa fa-map-marker" />
-                    <address>37, Pollsatnd, New York, United State</address>
+                    <address>Karachi, Sindh, Pakistan.</address>
                   </li>
                 </ul>
                 <ul
